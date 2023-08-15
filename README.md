@@ -24,7 +24,7 @@ This project provides a set of Python scripts to clean and analyze social media 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/clean-and-analyze-social-media.git`
+1. Clone the repository: `git clone https://github.com/Avantika-08/clean-and-analyze-social-media.git`
 2. Install required dependencies: `pip install -r requirements.txt`
 3. Download your social media usage data and place it in the `data` directory.
 
